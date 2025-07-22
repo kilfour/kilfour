@@ -36,7 +36,7 @@ A working spike and some tests. Generates [Fact]'s from the QuickAcid report.
 
 **TODO:** use the new casefile instead of the report and it should work for even the hard tests.
 
-## [QuickFuzzr](https://github.com/kilfour/QuickAcid)
+## [QuickFuzzr](https://github.com/kilfour/QuickFuzzr)
 > A type-walking cheetah with a hand full of random.
 
 Very stable, first lib using the auto doc system.
